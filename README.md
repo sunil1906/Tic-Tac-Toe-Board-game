@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Board-game
 Tic Tac Toe Board game developed with python and pygame
 
-![2](https://user-images.githubusercontent.com/53760997/123541021-c8766780-d75f-11eb-9ad6-484eebc61e38.PNG)
-![1](https://user-images.githubusercontent.com/53760997/123541024-ca402b00-d75f-11eb-8315-8b3a88a15eab.PNG)
-![3](https://user-images.githubusercontent.com/53760997/123541031-ce6c4880-d75f-11eb-8bb1-26983be5dcc0.PNG)
-![4](https://user-images.githubusercontent.com/53760997/123541033-d0360c00-d75f-11eb-9860-be56b966d53a.PNG)
+![1](https://user-images.githubusercontent.com/53760997/123541064-070c2200-d760-11eb-95c6-4b3ffe3defde.PNG)
+![2](https://user-images.githubusercontent.com/53760997/123541068-08d5e580-d760-11eb-94e8-0e7fc4d4f155.PNG)
+![3](https://user-images.githubusercontent.com/53760997/123541069-0a9fa900-d760-11eb-859e-35b1acd27bcd.PNG)
+![4](https://user-images.githubusercontent.com/53760997/123541072-0bd0d600-d760-11eb-87e4-3fceff5f790c.PNG)
